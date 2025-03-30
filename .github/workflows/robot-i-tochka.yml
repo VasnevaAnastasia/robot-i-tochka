@@ -27,4 +27,5 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-swagger-ui-tag
       - run: pip install mkdocs-mermaid2-plugin
+      - run: pip instal pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
