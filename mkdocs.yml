@@ -16,8 +16,8 @@ markdown_extensions:
   - attr_list
   - admonition
 
-# plugins:
-#  - swagger-ui-tag
+plugins:
+  - swagger-ui-tag
 #  - mermaid2
 #  - glightbox
 #  - search
