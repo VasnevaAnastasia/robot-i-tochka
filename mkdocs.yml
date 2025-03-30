@@ -20,7 +20,7 @@ plugins:
   - swagger-ui-tag
   - mermaid2
   - glightbox
-#  - search
+  - search
   - build_plantuml:
       render: 'server' # or "local" for local rendering
       bin_path: '/usr/local/bin/plantuml' # ignored when render: server
