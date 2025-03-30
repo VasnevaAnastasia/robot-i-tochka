@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/general_info/characteristics.md",
+                "file": "docs/description_of_business_processes/business_processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "characteristics"
+              "title": "business_processes"
             }
           }
         ]
@@ -170,9 +170,17 @@
   },
   "active": "1982b31d12c1b623",
   "lastOpenFiles": [
+    "docs/description_of_business_processes/OTUS_са_2024_10_Васнева_А_С МП.png",
+    "docs/description_of_business_processes/OTUS_са_2024_10_Васнева_А_С.png",
+    "docs/description_of_business_processes/OTUS_са_2024_10_Васнева_А_С (2).png",
+    "OTUS_са_2024_10_Васнева_А_С (1).png",
+    "docs/general_info/characteristics.md",
+    "docs/description_of_business_processes/business_processes.md",
+    "docs/description_of_business_processes",
+    "docs/general_info/Без названия",
     "docs/general_info/glossary.md",
     "docs/general_info/purpose.md",
-    "docs/general_info/characteristics.md",
+    "docs/index.md",
     "docs/information_model/state.md",
     "docs/information_model/model.md",
     "docs/requirements/uc01.md",
@@ -180,7 +188,6 @@
     "docs/requirements/bpmn_diagram.md",
     "docs/user_interface/prototype.md",
     "docs/architecture/components.md",
-    "docs/index.md",
     "docs/favicon.ico",
     "docs/favicon (1).ico",
     "docs/user_interface/wf02.md",
@@ -198,9 +205,6 @@
     "docs/img/screen03-2.png",
     "docs/img/screen03-1.png",
     "docs/img/screen02.png",
-    "docs/img/screen01.png",
-    "docs/img/prototype.jpg",
-    "docs/img/component_diagram.png",
     "docs/architecture/reasoning.md",
     "docs/architecture/integrations.md",
     "docs/api/endpoints.md",
