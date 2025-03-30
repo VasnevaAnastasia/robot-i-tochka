@@ -19,7 +19,7 @@ markdown_extensions:
 plugins:
   - swagger-ui-tag
   - mermaid2
-#  - glightbox
+  - glightbox
 #  - search
 #  - build_plantuml:
 #      render: 'server' # or "local" for local rendering
