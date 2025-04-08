@@ -9,6 +9,8 @@ nav:
      - general_info/glossary.md
   - Описание бизнес-процессов:
     - description_of_business_processes/business_processes.md
+  - Требования к системе: 
+    - requirements/nfr.md
 
 theme:
   name: material
