@@ -11,6 +11,16 @@ nav:
     - description_of_business_processes/business_processes.md
   - Требования к системе: 
     - requirements/nfr.md
+    - requirements/use_case_diagram.md
+    - requirements/uc01.md
+    - requirements/uc02.md
+    - requirements/uc03.md
+    - requirements/uc04.md
+    - requirements/uc05.md
+    - requirements/uc06.md
+    - requirements/uc07.md
+    - requirements/uc08.md
+    - requirements/uc09.md
 
 theme:
   name: material
