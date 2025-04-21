@@ -21,6 +21,13 @@ nav:
     - requirements/uc07.md
     - requirements/uc08.md
     - requirements/uc09.md
+    - requirements/uc10.md
+    - requirements/uc11.md
+    - requirements/uc12.md
+    - requirements/uc13.md
+    - requirements/uc14.md
+    - requirements/uc15.md
+    - requirements/uc16.md
 
 theme:
   name: material
