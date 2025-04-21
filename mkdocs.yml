@@ -28,7 +28,8 @@ nav:
     - requirements/uc14.md
     - requirements/uc15.md
     - requirements/uc16.md
-
+  - Информационная модель: 
+    - information_model/model.md
 theme:
   name: material
 
