@@ -11,7 +11,7 @@ nav:
     - description_of_business_processes/business_processes.md
   - Требования к системе: 
     - requirements/nfr.md
-    - requirements/use_case_diagram.md
+    - use_case_diagram.md 11-14-45-452.md
     - requirements/uc01.md
     - requirements/uc02.md
     - requirements/uc03.md
