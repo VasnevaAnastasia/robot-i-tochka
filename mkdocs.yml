@@ -30,6 +30,9 @@ nav:
     - requirements/uc16.md
   - Информационная модель: 
     - information_model/model.md
+  - Компонентная архитектура: 
+    - architecture/reasoning.md
+    - architecture/components.md
 theme:
   name: material
 
