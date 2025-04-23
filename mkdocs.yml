@@ -33,6 +33,12 @@ nav:
   - Компонентная архитектура: 
     - architecture/reasoning.md
     - architecture/components.md
+  - Пользовательский интерфейс приложения:
+    - user_interface/wf01.md
+    - user_interface/wf02.md
+    - ser_interface/wf03.md
+
+
 theme:
   name: material
 
