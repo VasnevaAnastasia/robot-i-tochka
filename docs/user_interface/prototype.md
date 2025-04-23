@@ -1,4 +1,4 @@
-# Прототип
+# Прототипы
 
 Прототип мобильного приложения доступен [по ссылке](https://www.figma.com/design/IMuxKJWTu2L1ZyE8oDyx8m/Untitled?node-id=1-583&t=Wf9fGfv2WfbmCpcR-4).
 
