@@ -28,6 +28,7 @@ nav:
     - requirements/uc14.md
     - requirements/uc15.md
     - requirements/uc16.md
+    - requirements/uc17.md
   - Информационная модель: 
     - information_model/model.md
   - Компонентная архитектура: 
@@ -36,7 +37,7 @@ nav:
   - Пользовательский интерфейс приложения:
     - user_interface/wf01.md
     - user_interface/wf02.md
-    - ser_interface/wf03.md
+    - user_interface/wf03.md
 
 
 theme:
