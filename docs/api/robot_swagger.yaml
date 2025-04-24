@@ -678,13 +678,13 @@ paths:
               type: object
               required:
                 - phoneNumber
-                - authCode
+                - password
               properties:
                 phoneNumber:
                   description: Номер телефона пользователя, который используется для регистрации
                   type: string
-                authCode:
-                  description: Код подтверждения, полученный пользователем
+                password:
+                  description: Пароль для входа в приложение
                   type: string
       responses:
         '200':
