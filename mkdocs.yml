@@ -48,6 +48,9 @@ nav:
   - API приложения:
     - api/endpoints.md
     - api/api.md
+  - Тест-кейсы:
+    - tasks/tasks_1release.md
+    - tasks/tasks_MVP.md
 
 
 theme:
