@@ -45,6 +45,7 @@ nav:
     - user_interface/wf07.md
     - user_interface/wf08.md
     - user_interface/wf09.md
+    - user_interface/wf10.md
   - API приложения:
     - api/endpoints.md
     - api/api.md
