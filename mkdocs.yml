@@ -3,10 +3,9 @@ site_name: Робот и точка
 nav:
   - Общие сведения:  
      - general_info/characteristics.md
+     - general_info/glossary.md
   - Назначение и цели проекта:
      - general_info/purpose.md
-  - Глоссарий:
-     - general_info/glossary.md
   - Описание бизнес-процессов:
     - description_of_business_processes/business_processes.md
   - Требования к системе: 
